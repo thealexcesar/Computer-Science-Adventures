@@ -6,7 +6,7 @@ Note that this is just a suggestion, and you can customize the description to be
 - [ ] [Computer Architecture](#)
 - [ ] [Logic Programming](#)
 - [ ] [Databases](#)
-- [ ] [Object-Oriented Programming](#)
+- [x] [Object-Oriented Programming](https://github.com/thealexcesar/Computer-Science-Adventures/tree/master/Object-Oriented%20Programming)
 - [ ] [Web Development](#)
 - [ ] [Data Structures](#)
 - [ ] [More to come](#)
